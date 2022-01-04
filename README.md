@@ -11,7 +11,7 @@
 
 
 
-	#### 2- Super e Reescrita de Métodos:
+ #### 2- Super e Reescrita de Métodos:
 
 - que classe mãe é chamada de super ou base class;
 - que a classe filha também é chamada de sub class;
